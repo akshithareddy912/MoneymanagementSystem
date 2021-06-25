@@ -222,7 +222,7 @@ public class InsertTables extends Frame implements ActionListener {
 				}
 			}
 		});	    
-		//Handle Update Menu Button
+		//Handle Update  Button
 		updateButton = new Button("Update Personal_details");
 		updateButton.addActionListener(new ActionListener()
 		{
@@ -1121,7 +1121,7 @@ public class InsertTables extends Frame implements ActionListener {
 				}
 			}
 		});	    
-		//Handle Update Menu Button
+		//Handle Update  Button
 		updateButton = new Button("Update Exchange");
 		updateButton.addActionListener(new ActionListener()
 		{
